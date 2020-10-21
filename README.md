@@ -4,17 +4,21 @@ I'm a front-end developer from Brazil.
 
 On my free time I enjoy:
 
-- 🗡️Some good old Table RPG, 
-- ℹ️ Searching for icons, and of course, 
-- ⚙️working on side projects.
+- 🗡️Some good old Table RPG
+- ℹ️ Searching for icons(yes, i like seeing icons [here](https://game-icons.net/) and [here](https://www.flaticon.com/)) 
+- ⚙️working on side projects
 
->The **AF** stands for **Assis Ferreira**, nothing else,just to be clear
+>The **AF** stands for **Assis Ferreira**(my last name), nothing else,just to be clear
 
 -------
 #### 📫 My socials:
 
 
-![Github](https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=github) ![Linkdin](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedIn) ![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=telegram&logoColor=white) ![Rockeseat](https://img.shields.io/badge/-🚀_Rockeseat-black?style=for-the-badge) ![Shawee](https://img.shields.io/badge/-Shawee-black?style=for-the-badge&logo=stripe&logoColor=white)
+[![Github](https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=github)](https://github.com/ArnaldoAF)
+[![Linkdin](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedIn)](https://www.linkedin.com/in/arnaldo-assis-ferreira/)
+[![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ArnaldoAF)
+[![Rockeseat](https://img.shields.io/badge/-🚀_Rockeseat-black?style=for-the-badge)](https://app.rocketseat.com.br/me/arnaldo-assis-ferreira-06235)
+[![Shawee](https://img.shields.io/badge/-Shawee-black?style=for-the-badge&logo=stripe&logoColor=white)](https://app.shawee.io/@arnaldoaf)
 
 -------
 #### 💻 Languages and tools:
@@ -32,7 +36,7 @@ On my free time I enjoy:
 --------
 #### 🛠️ Projects
 
-  ✅ Proffy(project build on THe NExt LEvel Week)
+  ✅ Proffy(project build on THe Next Level Week)
   
   👨‍💻 Proffy Extra Mile ( working on it)
   
