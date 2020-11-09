@@ -31,18 +31,17 @@ On my free time I enjoy:
   ![Next.js](https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=next.js) ![Redux](https://img.shields.io/badge/-Redux-black?style=for-the-badge&logo=redux) ![UI/UX](https://img.shields.io/badge/-UI/UX-black?style=for-the-badge&logo=material-design-icons&logoColor=white)
 
 ##### Already seen:
-  ![Vue.js](https://img.shields.io/badge/-Vue.js-black?style=for-the-badge&logo=vue.js&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=css3)
-  
+  ![Vue.js](https://img.shields.io/badge/-Vue.js-black?style=for-the-badge&logo=vue.js&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=css3) ![C#](https://img.shields.io/badge/-C%23-black?style=for-the-badge&logo=c-sharp)
 --------
 #### 🛠️ Projects
 
   ✅ Proffy(project build on THe Next Level Week)
   
+  ✅ This Read.me Page
+  
   👨‍💻 Proffy Extra Mile ( working on it)
   
   ⬜ Some Telegram Bot
-  
-  ⬜ This Read.me Page
   
   ⬜ More coming soon...🚀
  
