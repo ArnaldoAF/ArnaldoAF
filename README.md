@@ -4,7 +4,7 @@ I'm a front-end developer from Brazil.
 
 On my free time I enjoy:
 
-- 🗡️Some good old Table RPG
+- 🗡️Some good old TableTop RPG
 - ℹ️ Searching for icons(yes, i like seeing icons [here](https://game-icons.net/) and [here](https://www.flaticon.com/)) 
 - ⚙️working on side projects
 
